@@ -1,6 +1,6 @@
 // COMP1511 cs_flowers.c
 //
-// This program was written by [Thomas] ()
+// This program was written by [your name] (z5555555)
 // on [23.03.2024]
 //
 
